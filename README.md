@@ -47,7 +47,3 @@ September 2019 - May 2021
 - LinkedIn: https://www.linkedin.com/in/nikitadeshpande024/
 - Email: nikitaxdeshpande5@gmail.com
 
-
-nikitaxdeshpande/nikitaxdeshpande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
