@@ -1,9 +1,29 @@
-# Nikita Deshpande - Data Science/Analysis | Artificial Intelligence 
+# Nikita Deshpande - Data Science/Analysis | AI
 ## About
-Hi, I'm Nikita Deshpande! I am currently a third-year student in the University of Birmingham, on track to completing my degree in Computer Science and Software Engineering (MEng Computer Science and Software Engineering). 
-I have developed a strong foundation in Computer Science, studying a range of modules like: Object Oriented Programming, Theory of Computation, Full-Stack Web Development, Artificial Intelligence, Data Structures and Algorithms, Functional Programming, Computer Vision and Imaging, Human Computer Interaction, Mobile and Ubiquitious Computing, Neural Computation, Data Analysis, Natural Language Processing, Interactive Systems and Security of Real-World Systems.
+✨Hi, I'm Nikita Deshpande, a third - year student at the University of Birmingham. 
 
-During my studies, I have honored my ability to work with a range of CS tools and languages like: Java, Python, Haskell, MATLAB; throughout my CS journey I have been involved in several Agile Methology team projects, emphasizing on CI/CD software development. 
+Currently perusing my integrated Masters [MEng] Computer Science and Software Engineering degree, I am experienced in the different fields of computer science, such as: 
+- UI/UX design: where I led a team in producing a user-centric solution from scratch, incorporating tools like Figma, conducted interviews and a range of primary and secondary research and pitched my findings.
+- Full Stack Web Development: where I practiced leadership and agile project development, incorporating CI/CD alongside taking responsibility for frontend solutions.
+- Software Life Cycle Development and Security and Networks and Security of Real – World Systems where I was introduced to the current cyber-attacks and its mitigations.
+- IoT Development, where I designed an IoT based smart shopping system, incorporating stakeholder analysis, hi-fi mobile prototypes, architecture diagrams, learning and deployment and a holistic evaluation.
+Aside from these, I have studied OOP, and other such functional programming tools alongside a range of AI and CS modules. 
+
+Currently, I am working on a Natural Language Processing with Data Mining and Analysis Project. Furthermore, I am currently a Machine Learning and Data Analyst Intern where I am working independently in producing ML and Data Analysis driven projects such as: SMS spam detection, Credit Card flaw detection and Movie Sentiment Analysis.
+
+Apart from this, I have been involved at various roles throughout my journey, such as: Student and Marketing Ambassador at the University of Birmingham, where I led the Social Media Management for the university; I have worked as an Assistant Professor for the Operating Systems and Systems Programming module and have taught 120+ students. 
+
+Currently, I am a Research Assistant, aiding in the research of technological advancements globally and its potential impact across different sectors. Similarly, due to my keen interest in the business sector, I have been involved as a Business Analyst, investigating, through several factors such as: interviews, surveys, SWOT analysis, break-even analysis, the impact of certain motivational theories on the annual revenue and intrinsic/ extrinsic motivation of ABB employers and reporting the findings. 
+
+Due to my experiences, I have learned to work alongside various people, especially people of varying ideologies, work patterns and have learned to lead teams under varying conditions and have proven to produce high-quality results, expressed through the first-class grade received in varying team projects; I have also been referred by my academic professionals with regards to my working methods and have also learned to work under different environments and best optimize my research, look into detail and produce     the most relevant work.
+
+In my free time, you'd find me curled up with a good book, or binge-watching TV shows! Badminton, music and travelling also diverts my mind!✨
+
+## Projects 
+As an effort to pen down my journey through Data Science and Analysis, all my attempted projects are listed here:
+
+
+
 ## Certifications
 
 - [Data Analytics Consulting](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/KPMG%20AU/m7W4GMqeT3bh9Nb2c_KPMG%20AU_FhiAwiuF9EjpyYc4b_1692005950556_completion_certificate.pdf) - 
