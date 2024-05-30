@@ -9,13 +9,11 @@ Currently perusing my integrated Masters [MEng] Computer Science and Software En
 - IoT Development, where I designed an IoT based smart shopping system, incorporating stakeholder analysis, hi-fi mobile prototypes, architecture diagrams, learning and deployment and a holistic evaluation.
 Aside from these, I have studied OOP, and other such functional programming tools alongside a range of AI and CS modules. 
 
-Currently, I am working on a Natural Language Processing with Data Mining and Analysis Project. Furthermore, I am currently a Machine Learning and Data Analyst Intern where I am working independently in producing ML and Data Analysis driven projects such as: SMS spam detection, Credit Card flaw detection and Movie Sentiment Analysis.
-
-Apart from this, I have been involved at various roles throughout my journey, such as: Student and Marketing Ambassador at the University of Birmingham, where I led the Social Media Management for the university; I have worked as an Assistant Professor for the Operating Systems and Systems Programming module and have taught 120+ students. 
+Currently, I am working on a Natural Language Processing with Data Mining and Analysis Project. Currently, I am working independently in producing ML and Data Analysis driven projects such as: SMS spam detection, Credit Card flaw detection and Movie Sentiment Analysis.
 
 Currently, I am a Research Assistant, aiding in the research of technological advancements globally and its potential impact across different sectors. Similarly, due to my keen interest in the business sector, I have been involved as a Business Analyst, investigating, through several factors such as: interviews, surveys, SWOT analysis, break-even analysis, the impact of certain motivational theories on the annual revenue and intrinsic/ extrinsic motivation of ABB employers and reporting the findings. 
 
-Due to my experiences, I have learned to work alongside various people, especially people of varying ideologies, work patterns and have learned to lead teams under varying conditions and have proven to produce high-quality results, expressed through the first-class grade received in varying team projects; I have also been referred by my academic professionals with regards to my working methods and have also learned to work under different environments and best optimize my research, look into detail and produce     the most relevant work.
+Due to my experiences, I have learned to work alongside various people, especially people of varying ideologies, work patterns and have learned to lead teams under varying conditions and have proven to produce high-quality results.
 
 In my free time, you'd find me curled up with a good book, or binge-watching TV shows! Badminton, music and travelling also diverts my mind!✨
 
