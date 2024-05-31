@@ -1,4 +1,4 @@
-# Nikita Deshpande - Data Science/Analysis | AI
+# Nikita Deshpande - Data Science/Analysis • AI
 ## About
 ✨Hi, I'm Nikita Deshpande, a third - year student at the University of Birmingham. 
 
