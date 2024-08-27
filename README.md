@@ -1,6 +1,6 @@
 # Nikita Deshpande - Data Science & Analysis • AI
 ## About
-✨Hi, I'm Nikita Deshpande, a third - year student at the University of Birmingham. 
+✨Hi, I'm Nikita Deshpande, a final - year student at the University of Birmingham. 
 
 Currently perusing my integrated Masters [MEng] Computer Science and Software Engineering degree, I am experienced in the different fields of computer science, such as: 
 - UI/UX design: where I led a team in producing a user-centric solution from scratch, incorporating tools like Figma, conducted interviews and a range of primary and secondary research and pitched my findings.
@@ -20,6 +20,7 @@ In my free time, you'd find me curled up with a good book, or binge-watching TV 
 ## Projects 
 As an effort to pen down my journey through Data Science and Analysis, all my attempted projects are listed here:
 
+- 
 
 
 ## Certifications
